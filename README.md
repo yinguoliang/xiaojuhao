@@ -75,4 +75,4 @@
 ##### 初步运行+优化改造 1个月
 ##### 试用+优化 2个月
 ##### [预览](http://htmlpreview.github.io/?https://github.com/yinguoliang/xiaojuhao/blob/master/index.html)
-
+![image](https://raw.githubusercontent.com/yinguoliang/xiaojuhao/master/WX20171023-103546.png)
